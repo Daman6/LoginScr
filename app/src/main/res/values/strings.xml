@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_cms_google_login_api_url">%1$s/identity/signin/google?device=android_phone&amp;site=%2$s&amp;platform=android&amp;deviceId=%3$s&amp;deviceName=%4$s</string>
+
+    <string name="facebook_app_id">910134432450680</string>
+    <string name="facebook_client_token">599ad70e88345eecfb1eefb3ac3428ee</string>
+    <string name="page_error_fetching">Sorry, something went wrong while fetching page content.</string>
+    <string name="sign_in_facebook">Sign In with Facebook</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+</resources>
